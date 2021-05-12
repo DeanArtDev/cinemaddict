@@ -10,7 +10,7 @@
     "test": "npm run eslint"
   },
   "devDependencies": {
-    "chart.js": "2.9.3",
+    "chart.js": "2.9.4",
     "chartjs-plugin-datalabels": "0.7.0",
     "cross-env": "7.0.2",
     "csscomb": "4.3.0",
